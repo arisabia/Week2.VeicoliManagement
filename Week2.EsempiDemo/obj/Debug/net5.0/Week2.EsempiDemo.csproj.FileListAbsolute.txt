@@ -1,0 +1,16 @@
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.exe
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.deps.json
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.runtimeconfig.json
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.runtimeconfig.dev.json
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.dll
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\ref\Week2.EsempiDemo.dll
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\bin\Debug\net5.0\Week2.EsempiDemo.pdb
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.csprojAssemblyReference.cache
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.dll
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\ref\Week2.EsempiDemo.dll
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.pdb
+C:\Users\larisa.b.antonica\source\repos\Week2.EsempiDemo\Week2.EsempiDemo\obj\Debug\net5.0\Week2.EsempiDemo.genruntimeconfig.cache
